@@ -7,7 +7,7 @@ Datos propios publicados por los sitios de la red (9 dominios) con licencia [CC 
 ### [Estadísticas de auriculares en España 2026](https://mejores-auriculares.com/estadisticas/)
 
 - Página con la versión vigente, el método («Cómo hemos contado») y la caja de cita: **[https://mejores-auriculares.com/estadisticas/](https://mejores-auriculares.com/estadisticas/)**
-- Twins en el propio sitio: [https://mejores-auriculares.com/estadisticas/datos/](https://mejores-auriculares.com/estadisticas/)
+- Descargas (CSV/JSON) en el propio sitio: [https://mejores-auriculares.com/estadisticas/#descarga-datos](https://mejores-auriculares.com/estadisticas/#descarga-datos)
 - Archivos en este repositorio:
   - [prices-2026.csv](mejores-auriculares.com/prices-2026.csv)
   - [prices-2026.json](mejores-auriculares.com/prices-2026.json)
@@ -39,6 +39,20 @@ Cada una tiene un fragmento «Insertar» con el enlace visible a la fuente.
 - [mejortablets.com/herramientas/pulgadas-a-cm/](https://mejortablets.com/herramientas/pulgadas-a-cm/)
 - [movilesbarato.com/herramientas/cuota-vs-contado/](https://movilesbarato.com/herramientas/cuota-vs-contado/)
 - [televisores-baratos.com/herramientas/distancia-pulgadas/](https://televisores-baratos.com/herramientas/distancia-pulgadas/)
+
+## Directorios locales por provincia
+
+Cada sitio publica un directorio de negocios por provincia y municipio (datos de Google Maps, ordenados por reseñas, sin pago). Cada ficha ofrece un distintivo «recomendado en <ciudad>» que el negocio puede insertar en su web.
+
+- [mejores-altavoces.com/provincias/](https://mejores-altavoces.com/provincias/)
+- [mejores-auriculares.com/provincias/](https://mejores-auriculares.com/provincias/)
+- [mejores-monitores.com/provincias/](https://mejores-monitores.com/provincias/)
+- [mejores-moviles.com/provincias/](https://mejores-moviles.com/provincias/)
+- [mejores-portatiles.com/provincias/](https://mejores-portatiles.com/provincias/)
+- [mejores-relojes.com/provincias/](https://mejores-relojes.com/provincias/)
+- [mejortablets.com/provincias/](https://mejortablets.com/provincias/)
+- [movilesbarato.com/provincias/](https://movilesbarato.com/provincias/)
+- [televisores-baratos.com/provincias/](https://televisores-baratos.com/provincias/)
 
 ## Licencia y cita
 
