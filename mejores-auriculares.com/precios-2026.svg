@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+<title id="t">Distribución de precios de los productos que seguimos en amazon.es, 2026</title>
+<desc id="d">Mínimo: 5,89 €; Q1: 16,99 €; Mediana: 35,08 €; Q3: 69,00 €; Máximo: 138,54 €</desc>
+<text x="170" y="30" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#111318">Distribución de precios de los productos que seguimos en amazon.es, 2026</text>
+<line x1="267.5" y1="46" x2="267.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="365" y1="46" x2="365" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="462.5" y1="46" x2="462.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="560" y1="46" x2="560" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<text x="158" y="83.8" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Mínimo</text>
+<rect x="170" y="63.8" width="14.4" height="30" rx="4" fill="#2f5bea"/>
+<text x="192.4" y="83.8" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">5,89 €</text>
+<text x="158" y="137.4" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Q1</text>
+<rect x="170" y="117.4" width="41.6" height="30" rx="4" fill="#8fb4ff"/>
+<text x="219.6" y="137.4" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">16,99 €</text>
+<text x="158" y="191" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Mediana</text>
+<rect x="170" y="171" width="85.9" height="30" rx="4" fill="#2f5bea"/>
+<text x="263.9" y="191" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">35,08 €</text>
+<text x="158" y="244.6" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Q3</text>
+<rect x="170" y="224.6" width="168.9" height="30" rx="4" fill="#8fb4ff"/>
+<text x="346.9" y="244.6" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">69,00 €</text>
+<text x="158" y="298.2" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Máximo</text>
+<rect x="170" y="278.2" width="339.1" height="30" rx="4" fill="#2f5bea"/>
+<text x="517.1" y="298.2" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">138,54 €</text>
+<text x="170" y="348" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#5b6472">Fuente: mejores-auriculares.com, datos propios, amazon.es, 2026-08-18 (n = 21). CC BY 4.0</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+<title id="t">Qué muestran las páginas de primera página, 2026</title>
+<desc id="d">Año en el título: 20 %; Año actual en el título: 16 %; Precios visibles: 56 %; Fecha visible: 14 %</desc>
+<text x="170" y="30" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#111318">Qué muestran las páginas de primera página, 2026</text>
+<line x1="267.5" y1="46" x2="267.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="365" y1="46" x2="365" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="462.5" y1="46" x2="462.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="560" y1="46" x2="560" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<text x="158" y="90.5" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Año en el título</text>
+<rect x="170" y="70.5" width="78" height="30" rx="4" fill="#2f5bea"/>
+<text x="256" y="90.5" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">20 %</text>
+<text x="158" y="157.5" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Año actual en el título</text>
+<rect x="170" y="137.5" width="62.4" height="30" rx="4" fill="#8fb4ff"/>
+<text x="240.4" y="157.5" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">16 %</text>
+<text x="158" y="224.5" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Precios visibles</text>
+<rect x="170" y="204.5" width="218.4" height="30" rx="4" fill="#2f5bea"/>
+<text x="396.4" y="224.5" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">56 %</text>
+<text x="158" y="291.5" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Fecha visible</text>
+<rect x="170" y="271.5" width="54.6" height="30" rx="4" fill="#8fb4ff"/>
+<text x="232.6" y="291.5" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">14 %</text>
+<text x="170" y="348" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#5b6472">Fuente: mejores-auriculares.com, datos propios, 2026-09-08 (n = 217, 25 q). CC BY 4.0</text>
+</svg>

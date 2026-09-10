@@ -1,0 +1,396 @@
+{
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Mejores Auriculares — https://mejores-auriculares.com/estadisticas/",
+    "source": "https://mejores-auriculares.com/estadisticas/",
+    "computedBy": "content-hub stats-dataset",
+    "kind": "serp",
+    "network": "electronica",
+    "site": "mejores-auriculares.com",
+    "computedAt": "2026-09-08T12:25:21.710Z",
+    "retrievedAt": "2026-09-08",
+    "lang": "es-ES",
+    "queries": 25,
+    "perQuery": 10,
+    "n": 232,
+    "nFetched": 217,
+    "nBlocked": 15,
+    "nUnknown": 0,
+    "yearInTitlePct": 20,
+    "currentYearInTitlePct": 16,
+    "pricesShownPct": 56,
+    "visibleDatePct": 14,
+    "comparisonTablePct": 5,
+    "faqPct": 3,
+    "wordCount": {
+        "n": 214,
+        "median": 1595,
+        "q1": 920,
+        "q3": 2646,
+        "min": 78,
+        "max": 10352
+    },
+    "pageType": {
+        "guide": {
+            "n": 47,
+            "pct": 22
+        },
+        "category": {
+            "n": 46,
+            "pct": 21
+        },
+        "listicle": {
+            "n": 34,
+            "pct": 16
+        },
+        "product": {
+            "n": 34,
+            "pct": 16
+        },
+        "other": {
+            "n": 26,
+            "pct": 12
+        },
+        "news": {
+            "n": 14,
+            "pct": 6
+        },
+        "forum": {
+            "n": 10,
+            "pct": 5
+        },
+        "study": {
+            "n": 6,
+            "pct": 3
+        }
+    },
+    "domainType": {
+        "retailer": {
+            "n": 74,
+            "pct": 34
+        },
+        "media": {
+            "n": 49,
+            "pct": 23
+        },
+        "brand": {
+            "n": 27,
+            "pct": 12
+        },
+        "marketplace": {
+            "n": 26,
+            "pct": 12
+        },
+        "other": {
+            "n": 14,
+            "pct": 6
+        },
+        "institution": {
+            "n": 9,
+            "pct": 4
+        },
+        "blog": {
+            "n": 9,
+            "pct": 4
+        },
+        "forum": {
+            "n": 9,
+            "pct": 4
+        }
+    },
+    "distinctDomains": 113,
+    "topDomains": [
+        {
+            "domain": "pccomponentes.com",
+            "n": 14
+        },
+        {
+            "domain": "amazon.es",
+            "n": 11
+        },
+        {
+            "domain": "youtube.com",
+            "n": 10
+        },
+        {
+            "domain": "mediamarkt.es",
+            "n": 8
+        },
+        {
+            "domain": "reddit.com",
+            "n": 8
+        },
+        {
+            "domain": "apps.apple.com",
+            "n": 7
+        },
+        {
+            "domain": "coppel.com",
+            "n": 6
+        },
+        {
+            "domain": "amazon.com",
+            "n": 6
+        },
+        {
+            "domain": "gizchina.es",
+            "n": 5
+        },
+        {
+            "domain": "gaes.es",
+            "n": 5
+        }
+    ],
+    "byQuery": [
+        {
+            "query": "auriculares estadísticas 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 80,
+            "pricesShownPct": 40,
+            "medianWords": 1180,
+            "topPageType": "news",
+            "distinctDomains": 9
+        },
+        {
+            "query": "estadísticas auriculares España",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 44,
+            "medianWords": 1576,
+            "topPageType": "product",
+            "distinctDomains": 6
+        },
+        {
+            "query": "auriculares tendencias 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 60,
+            "medianWords": 1123,
+            "topPageType": "product",
+            "distinctDomains": 7
+        },
+        {
+            "query": "datos uso auriculares España",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 22,
+            "medianWords": 1028,
+            "topPageType": "product",
+            "distinctDomains": 8
+        },
+        {
+            "query": "cuánto cuestan unos auriculares",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 40,
+            "medianWords": 1813,
+            "topPageType": "category",
+            "distinctDomains": 8
+        },
+        {
+            "query": "precio medio auriculares bluetooth",
+            "n": 9,
+            "nFetched": 8,
+            "yearInTitlePct": 11,
+            "pricesShownPct": 75,
+            "medianWords": 1336,
+            "topPageType": "category",
+            "distinctDomains": 9
+        },
+        {
+            "query": "cuántas personas usan auriculares",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 40,
+            "pricesShownPct": 30,
+            "medianWords": 914,
+            "topPageType": "news",
+            "distinctDomains": 7
+        },
+        {
+            "query": "mejores auriculares 2026",
+            "n": 8,
+            "nFetched": 7,
+            "yearInTitlePct": 88,
+            "pricesShownPct": 86,
+            "medianWords": 2391,
+            "topPageType": "listicle",
+            "distinctDomains": 8
+        },
+        {
+            "query": "auriculares baratos y buenos",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 60,
+            "medianWords": 1607,
+            "topPageType": "category",
+            "distinctDomains": 8
+        },
+        {
+            "query": "auriculares inalámbricos baratos",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 70,
+            "medianWords": 1006,
+            "topPageType": "product",
+            "distinctDomains": 7
+        },
+        {
+            "query": "auriculares bluetooth menos de 50 euros",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 11,
+            "pricesShownPct": 100,
+            "medianWords": 1812,
+            "topPageType": "listicle",
+            "distinctDomains": 9
+        },
+        {
+            "query": "auriculares diadema baratos",
+            "n": 6,
+            "nFetched": 4,
+            "yearInTitlePct": 17,
+            "pricesShownPct": 100,
+            "medianWords": 1221,
+            "topPageType": "other",
+            "distinctDomains": 6
+        },
+        {
+            "query": "auriculares gaming baratos",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 13,
+            "pricesShownPct": 63,
+            "medianWords": 1435,
+            "topPageType": "category",
+            "distinctDomains": 8
+        },
+        {
+            "query": "auriculares para correr",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 89,
+            "medianWords": 2686,
+            "topPageType": "category",
+            "distinctDomains": 10
+        },
+        {
+            "query": "auriculares para videollamadas",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 30,
+            "pricesShownPct": 44,
+            "medianWords": 2762,
+            "topPageType": "listicle",
+            "distinctDomains": 9
+        },
+        {
+            "query": "cancelación de ruido barata",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 50,
+            "medianWords": 1264,
+            "topPageType": "listicle",
+            "distinctDomains": 9
+        },
+        {
+            "query": "cable o bluetooth auriculares",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 44,
+            "medianWords": 1559,
+            "topPageType": "guide",
+            "distinctDomains": 9
+        },
+        {
+            "query": "tipos de auriculares",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 67,
+            "medianWords": 2595,
+            "topPageType": "guide",
+            "distinctDomains": 9
+        },
+        {
+            "query": "auriculares para niños colegio",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 80,
+            "medianWords": 1664,
+            "topPageType": "category",
+            "distinctDomains": 10
+        },
+        {
+            "query": "mejores auriculares calidad precio",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 44,
+            "pricesShownPct": 100,
+            "medianWords": 3126,
+            "topPageType": "listicle",
+            "distinctDomains": 9
+        },
+        {
+            "query": "auriculares con cable usb c",
+            "n": 10,
+            "nFetched": 7,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 71,
+            "medianWords": 1191,
+            "topPageType": "product",
+            "distinctDomains": 10
+        },
+        {
+            "query": "cómo conectar auriculares bluetooth",
+            "n": 6,
+            "nFetched": 6,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 33,
+            "medianWords": 2341,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        },
+        {
+            "query": "auriculares y salud auditiva",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 13,
+            "medianWords": 968,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "auriculares inalámbricos 2026",
+            "n": 10,
+            "nFetched": 8,
+            "yearInTitlePct": 100,
+            "pricesShownPct": 38,
+            "medianWords": 2101,
+            "topPageType": "listicle",
+            "distinctDomains": 9
+        },
+        {
+            "query": "ficha técnica auriculares explicada",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 0,
+            "medianWords": 1053,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        }
+    ],
+    "method": "Page-one results (10 per query) for 25 queries fetched on 2026-09-08 through the hub search layer; each page classified by type and measured (word count, year in title, prices shown, visible date). Blocked/unknown fetches are excluded from page-level rates."
+}
